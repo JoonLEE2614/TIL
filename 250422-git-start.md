@@ -1,4 +1,4 @@
-## 뭘 배우게 되는가
+## 뭘 배웠는가?
 - Clone할 때는 항상 dev에서 하기
 - git add, commit 등 뭘 하기전에 git status 로 상태부터 확인
 - git branch 로 한 가지에서 작업이 끝나면 해당 branch는 꼭 삭제
